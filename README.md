@@ -25,3 +25,5 @@ Here are a few resources to help you right off the bat:
 When you are done, click on the [EXERCISES](/EXERCISES/) folder and follow the instructions in the RetirementParty.md.
 
 For more practice in GitHub including learning about branches, try this exercise: https://guides.github.com/activities/hello-world/ 
+
+So many ::tada:: s but I am so ::sleepy:: 
